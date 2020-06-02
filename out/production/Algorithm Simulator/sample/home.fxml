@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.effect.Glow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="914.0" prefWidth="1418.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.homeController">
+   <children>
+      <Text fill="#21d018" layoutX="457.0" layoutY="289.0" stroke="#2da427" strokeDashOffset="2.0" strokeLineJoin="ROUND" strokeWidth="2.0" text="SORTING" textAlignment="CENTER" wrappingWidth="167.6708984375" x="10.0">
+         <font>
+            <Font name="System Bold" size="30.0" />
+         </font>
+      </Text>
+      <Button layoutX="646.0" layoutY="256.0" mnemonicParsing="false" onAction="#bubblesimulationclicked" prefHeight="40.0" prefWidth="152.0" text="SIMULATE">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font></Button>
+      <Text fill="#21d018" layoutX="523.0" layoutY="354.0" stroke="#2da427" strokeDashOffset="2.0" strokeLineJoin="ROUND" strokeWidth="2.0" text="BFS" wrappingWidth="54.13671875">
+         <font>
+            <Font name="System Bold" size="30.0" />
+         </font>
+      </Text>
+      <Button fx:id="BfsButton" layoutX="646.0" layoutY="322.0" mnemonicParsing="false" onAction="#BFSsimulationclicked" prefHeight="40.0" prefWidth="152.0" text="SIMULATE">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+      </Button>
+      <Text fill="#114cf0f8" layoutX="416.0" layoutY="80.0" stroke="#146380f7" strokeWidth="2.0" text="Algorithm Simulator" textAlignment="CENTER" underline="true" wrappingWidth="457.6708984375" x="10.0">
+         <font>
+            <Font name="System Bold" size="40.0" />
+         </font>
+      </Text>
+      <Text fill="#5252baf0" layoutX="967.0" layoutY="455.0" lineSpacing="1.0" stroke="#000000bc" strokeLineCap="BUTT" strokeLineJoin="ROUND" text="Shovito Barua Soumma" textAlignment="CENTER" underline="true" wrappingWidth="333.6708984375" x="10.0" AnchorPane.rightAnchor="107.3291015625">
+         <font>
+            <Font name="Times New Roman Bold" size="32.0" />
+         </font>
+         <effect>
+            <Glow />
+         </effect>
+      </Text>
+      <Text fill="#5252baf0" layoutX="170.0" layoutY="457.0" lineSpacing="1.0" stroke="#000000bc" strokeLineCap="BUTT" strokeLineJoin="ROUND" text="Fahim Shahriar Anik" textAlignment="CENTER" underline="true" wrappingWidth="333.6708984375" x="10.0">
+         <font>
+            <Font name="Times New Roman Bold" size="32.0" />
+         </font>
+         <effect>
+            <Glow />
+         </effect>
+      </Text>
+      <Text fill="#5252baf0" layoutX="189.0" layoutY="502.0" lineSpacing="1.0" stroke="#000000bc" strokeLineCap="BUTT" strokeLineJoin="ROUND" text="ID: 1605065 CSE, BUET" wrappingWidth="181.6708984375" x="10.0">
+         <font>
+            <Font name="Times New Roman Bold" size="24.0" />
+         </font>
+         <effect>
+            <Glow />
+         </effect>
+      </Text>
+      <Text fill="#5252baf0" layoutX="909.0" layoutY="501.0" lineSpacing="1.0" stroke="#000000bc" strokeLineCap="BUTT" strokeLineJoin="ROUND" text="ID: 1605066 CSE, BUET" wrappingWidth="167.67090555280447" x="10.0">
+         <font>
+            <Font name="Times New Roman Bold" size="24.0" />
+         </font>
+         <effect>
+            <Glow />
+         </effect>
+      </Text>
+      <Text fill="#ba4516c3" layoutX="533.0" layoutY="140.0" lineSpacing="2.0" stroke="#000000bc" strokeLineCap="ROUND" strokeLineJoin="ROUND" text="Term Project (Level 1 Term 2)" textAlignment="CENTER" wrappingWidth="242.6708984375" x="10.0">
+         <font>
+            <Font name="Times New Roman Bold" size="32.0" />
+         </font>
+         <effect>
+            <Glow />
+         </effect>
+      </Text>
+      <Text fill="#d11f23f0" layoutX="445.0" layoutY="586.0" lineSpacing="1.0" stroke="#000000bc" strokeLineCap="BUTT" strokeLineJoin="ROUND" text="Dr Mohammad Saifur Rahman" textAlignment="CENTER" underline="true" wrappingWidth="457.6708984375" x="10.0">
+         <font>
+            <Font name="Times New Roman Bold" size="32.0" />
+         </font>
+         <effect>
+            <Glow />
+         </effect>
+      </Text>
+      <Text fill="#d12424f0" layoutX="552.0" layoutY="625.0" lineSpacing="1.0" stroke="#000000bc" strokeLineCap="BUTT" strokeLineJoin="ROUND" text="Assistant Professor, CSE, BUET" textAlignment="CENTER" wrappingWidth="230.6708984375" x="10.0">
+         <font>
+            <Font name="Times New Roman Bold" size="24.0" />
+         </font>
+         <effect>
+            <Glow />
+         </effect>
+      </Text>
+      <Text fill="#d12424f0" layoutX="539.0" layoutY="545.0" lineSpacing="1.0" stroke="#000000bc" strokeLineCap="BUTT" strokeLineJoin="ROUND" text="Advisor:" textAlignment="CENTER" wrappingWidth="230.6708984375" x="10.0">
+         <font>
+            <Font name="Times New Roman Bold" size="28.0" />
+         </font>
+         <effect>
+            <Glow />
+         </effect>
+      </Text>
+   </children>
+</AnchorPane>
