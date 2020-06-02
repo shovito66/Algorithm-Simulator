@@ -21,5 +21,5 @@ Bangladesh University of Engineering & Technology (BUET), Dhaka-1000.<br>
 <b>Team Member:</b><br>
 Shovito Barua Soumma<br>
 Fahim Shahriar Anik<br>
-❮img src=https://github.com/shovito66/Algorithm-Simulator/blob/master/Screen%20Shot/SS%200.PNG width="100" ❯
+❮img src="Screen Shot/SS 0.png" width="100" ❯
 
