@@ -2,10 +2,11 @@
 <h1>ALGORITHM SIMULATOR</h1> <br>
 <b>Academic Term Project: (Undergrad, Level-1 Term-2)</b><br>
 
-<p>
-
+<p> 
+ <img src="https://github.com/shovito66/Algorithm-Simulator/blob/master/Screen%20Shot/SS%200.PNG" width="600" title="HOME"> <br> 
+  <img src="https://github.com/shovito66/Algorithm-Simulator/blob/master/Screen%20Shot/SS%201.PNG" width="480" title="BFS 1">
+  <img src="https://github.com/shovito66/Algorithm-Simulator/blob/master/Screen%20Shot/SS%202.PNG" width="480" title="BFS 2">
   
-  <img src="https://github.com/shovito66/Algorithm-Simulator/blob/master/Screen%20Shot/SS%200.PNG" width="450" title="HOME"> <br> 
 This is a java project that shows simulation of 3 sorting algorithms and BFS. JavaFx is used for the UI part.
 In our simulation part of sorting algorithm, we resize the bar of input given by the user so that it can fit in window. 
 Here are some test cases for our project: <br>
