@@ -1,6 +1,9 @@
+<center>
 <h1>ALGORITHM SIMULATOR</h1> <br>
 <b>Academic Term Project: (Undergrad, Level-1 Term-2)</b><br>
+</center>
 <p>
+![alt text](https://github.com/shovito66/Algorithm-Simulator/blob/master/Screen%20Shot/SS%200.PNG "Title")
 This is a java project that shows simulation of 3 sorting algorithms and BFS. JavaFx is used for the UI part.
 In our simulation part of sorting algorithm, we resize the bar of input given by the user so that it can fit in window. 
 Here are some test cases for our project: <br>
@@ -21,5 +24,5 @@ Bangladesh University of Engineering & Technology (BUET), Dhaka-1000.<br>
 <b>Team Member:</b><br>
 Shovito Barua Soumma<br>
 Fahim Shahriar Anik<br>
-![alt text](https://github.com/shovito66/Algorithm-Simulator/blob/master/Screen%20Shot/SS%200.PNG)
+
 
