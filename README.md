@@ -16,6 +16,7 @@ Here are some test cases for our project: <br>
 •	50,60,250,30,15,60,10,50 <br>
 •	70,50,15,45,20,10,40,60 <br>
 •	60,50,40,30,20,15,10,4 <br>
+<img src="https://github.com/shovito66/Algorithm-Simulator/blob/master/Screen%20Shot/SS%204.PNG" width="550" title="BFS 2"><br>
 </p><br><br>
 <b>Project Advisor: </b><br>
 <b>Dr. Mohammad Saifur Rahman,</b><br>
@@ -27,5 +28,6 @@ Bangladesh University of Engineering & Technology (BUET), Dhaka-1000.<br>
 <b>Team Member:</b><br>
 Shovito Barua Soumma<br>
 Fahim Shahriar Anik<br>
+
 ![alt text](https://github.com/shovito66/Algorithm-Simulator/blob/master/Screen%20Shot/SS%200.PNG)
 
